@@ -13,7 +13,7 @@ class SomarDoisNumeros {
 		//Somar
 		soma = num1 + num2;
 		//Mostrar na tela
-		System.out.println("Soma :" + soma);
+		System.out.println("Soma:" + soma);
 		}
 
 	public static Scanner getSc() {
